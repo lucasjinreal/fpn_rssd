@@ -9,6 +9,7 @@ RSSD because we try do RBox detection on image rather than regular box**.
 
 *updates*:
 
+2019.07.29: The FPN+SSD part were worked now, source codes at: http://manaai.cn/aicodes_detail3.html?id=41, rotate box part still need finetue.
 2019.07.15: We complete the detection part combines FPN and SSD, check our codes on MANA platform: http://manaai.cn
 2019.01.09: first init project, all things will on going still I successfully trained a RBox detection model. keep an eye on our progress.
 
